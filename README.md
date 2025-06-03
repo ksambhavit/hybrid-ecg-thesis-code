@@ -33,7 +33,7 @@ Click “Download” → “ZIP” → Save the 1.7 GB archive.
 
 Unzip into a local folder, e.g.:
 
-bash
+
 Copy
 Edit
 unzip ptb-xl-1.0.3.zip -d ./ptbxl_raw
